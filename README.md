@@ -177,5 +177,5 @@ Forge exists because **the Mac deserves a code editor that's actually built for 
 ---
 
 <p align="center">
-  <sub>Built with Swift, Metal, and an unreasonable amount of attention to detail.</sub>
+  <sub>Built with Swift, Metal, and an unreasonable amount of attention to detail by nodaysidle.</sub>
 </p>
